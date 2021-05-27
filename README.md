@@ -9,7 +9,7 @@ The code in this repository can be used to calculate the edge (and node) between
         
 ## Inputs:
 
-The main function, get_ebw_make_od, takes 6 inputs:
+The main function, ```get_ebw_make_od```, takes 6 inputs:
 1) a MATLAB Sparse Matrix with edge lengths (in meters, feet, etc.) as weights
 2) N, the number of nodes in the network
 3) the number of layers in the network. This should be set to 1, as multilayer functionality still needs to be implemented.
