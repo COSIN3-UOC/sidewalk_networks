@@ -1,6 +1,6 @@
 # OD-adjusted weighted edge betweenness for sidewalk networks
 
-The code in this repository can be used to calculate the edge (and node) betweenness of sidewalk networks using empirically-grounded OD matrices estimated from geographical population and point-of-interest (POI) data. The function to estimate the OD matrix and to calculate the network betweenness is a user-defined MATLAB MEX function implemented in C++. 
+The code in this repository can be used to calculate the edge (and node) betweenness of sidewalk networks using empirically-grounded OD matrices estimated from geographical population and point-of-interest (POI) data. The function to estimate the OD matrix and to calculate the network betweenness is a user-defined MATLAB MEX function implemented in C++. Please cite [1] in any works using or derived from this software.
 
 ## System Requirements 	
 
