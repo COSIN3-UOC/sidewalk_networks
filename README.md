@@ -61,7 +61,7 @@ An example MATLAB script (```get_directed_EB_example.m```) for calling the main 
 
 Note that the empirical sidewalk networks and node metadata used in [1] are stored in a persistent repository (https://www.doi.org/10.17605/OSF.IO/94TDC), and are correctly formatted and ready to use with a script like get_directed_EB_example.m
 
-The script can be run from the MATLAB command line within the MATLAB GUI
+The script can be run from the MATLAB command line within the MATLAB GUI, and should execute very quickly (< 1 minute).
 
 ```
 get_directed_EB_example
