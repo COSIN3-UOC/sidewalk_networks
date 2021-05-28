@@ -59,7 +59,7 @@ An example MATLAB script (```get_directed_EB_example.m```) for calling the main 
 	3) the population (i.e. number of pedestrians) assigned to the node
 	4) the number of POIs assigned to the node
 
-Note that the empirical sidewalk networks and node metadata used in [1] can be found at this persistent repository (/tbd/), and are correctly formatted and ready to use with a script like get_directed_EB_example.m
+Note that the empirical sidewalk networks and node metadata used in [1] are stored in a persistent repository (https://www.doi.org/10.17605/OSF.IO/94TDC), and are correctly formatted and ready to use with a script like get_directed_EB_example.m
 
 The script can be run from the MATLAB command line within the MATLAB GUI
 
