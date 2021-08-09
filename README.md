@@ -82,6 +82,6 @@ The example script writes three files to a new folder ```./example_data/EB/```: 
 
 # References
 
-[1] Rhoads, D., Solé-Ribalta, A., González, M. C., & Borge-Holthoefer, J. (2020). Planning for sustainable Open Streets in pandemic cities. arXiv preprint arXiv:2009.12548.
+[1] Rhoads, D., Solé-Ribalta, A., González, M. C., & Borge-Holthoefer, J. (2021). A sustainable strategy for Open Streets in (post)pandemic cities. Communications Physics. DOI: 10.1038/s42005-021-00688-z
 
 
